@@ -5,12 +5,13 @@ width: 100vw;
 background-color: rgb(168, 173, 182);
 display: grid;
 place-items: center;
+overflow: scroll;
 
 }
 
 .App__container{
 
-    height:700px;
+    height:500px;
     width: 500px;
     display: flex;
     flex-direction: column;
