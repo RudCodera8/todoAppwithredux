@@ -29,3 +29,15 @@ place-items: center;
     align-items: center;
 
 }
+
+.head{
+font-style: italic;
+font-size: large;
+color: gray;
+display: flex;
+flex: 1;
+flex-direction: column;
+background-color:white;
+border-radius: 12px;
+padding: 12px;
+}

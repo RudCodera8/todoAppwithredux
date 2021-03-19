@@ -14,6 +14,10 @@ const todoList = useSelector(selectTodoList)
 
   return (
     <div className="App">
+        <div className='head'>
+          <h1>To Do App</h1>
+          </div>
+        
         {/*Todolist*/}
         <div className = 'App__container'>
           <div className = 'App__todoContainer'>
